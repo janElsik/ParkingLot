@@ -1,0 +1,19 @@
+content:
+- When expression
+- Declaring functions
+- Declaring classes
+- Jumps and returns
+- Default arguments
+- Named arguments
+- Constructors
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Taming exceptions
+- The try-catch statement
+- The try-catch-finally statement
+- Null safety
+- Type system
+- Member functions
+- toString()
+- Data class
